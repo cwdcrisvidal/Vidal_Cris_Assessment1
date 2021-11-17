@@ -1,21 +1,21 @@
 * {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   margin: 0;
   padding: 0;
   line-height: 1.4;
 }
 
 body {
-    background: #fdf6f0;
-    align-items: center;
+  background: #fdf6f0;
+  align-items: center;
 }
 
 h2 {
-    font-size: 30px;
+  font-size: 30px;
 }
 
 h3 {
-    padding-bottom: 15px;
+  padding-bottom: 15px;
 }
 
 .primary-text {
@@ -46,24 +46,23 @@ h3 {
 }
 
 p {
-    margin-top: 0.75;
-    margin-bottom: 0.75;
-    margin-left: 0;
-    margin-right: 0;
-    position: relative;
+  margin-top: 0.75;
+  margin-bottom: 0.75;
+  margin-left: 0;
+  margin-right: 0;
+  position: relative;
 }
 
 i {
-    background-color: #f8e2cf;
-    border-radius: 50%;
-    border: 0px;
-    padding: 15px;
-    position: relative;
-  }
+  background-color: #f8e2cf;
+  border-radius: 50%;
+  border: 0px;
+  padding: 15px;
+  position: relative;
+}
 
-  .icon-circle {
-      float: left;
-      padding-top: 30px;
-      margin-right: 10px;
-  }
-
+.icon-circle {
+  float: left;
+  padding-top: 30px;
+  margin-right: 10px;
+}
